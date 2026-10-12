@@ -1,0 +1,28 @@
+Name;Description;Designator;Quantity;Manufacturer 1;Manufacturer Part Number 1;;;;;;
+ECA1EM102;Aluminum Electrolytic Capacitor, 1000 uF, +/- 20%, 25 V, -40 to 85 degC, 2-Pin THD, RoHS, Bulk;C1, C2, C3;3;Panasonic / Panasonic ECG;ECA-1EM102;;;;;;
+1N4007;General Purpose Rectifier, 1.1 V, 1.0 A, -55 to 175 degC, 2-Pin DO-41, RoHS, Tape and Reel;D1, D2, D3, D4, D5;5;Diodes Inc.;1N4007-T;;;;;;
+G502DC;Green LED, 80 mW, 20 mA, -25 to 85 degC, 2-Pin THD;DS1;1;;;;;;;;
+Header 2;Conector header 1x2, passo 2,54 mm;J1, J2;2;;;;;;;;
+Potenciômetro;Potenciômetro 10 k ohms;PT1;1;;;;;;;;
+TIP31C;TRANS NPN 100V 3A TO-220;Q1, Q2;2;STMicroelectronics;TIP31C;;;;;;
+Resistor 270 ohms 1% 2010;270R 0.75W 1% 2010 (5025 Metric)  SMD;R1;1;Vishay;CRCW2010270RFKEF;;;;;;
+Resistor 10 k ohms SMD;Chip Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 1206 (3216 Metric);R2;1;;;;;;;;
+BUTT-2;Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4;S1;1;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;|
